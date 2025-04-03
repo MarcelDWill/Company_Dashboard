@@ -4,7 +4,9 @@
 ![Demo App](/public/screenshot-for-readme-2.png)
 ![Demo App](/public/screenshot-for-readme-3.png)
 
-### This is a company dashboard ui kit built with:
+[Deployed Page]([https://youtu.be/gK0v_d91epk](https://company-dashboard-three.vercel.app/products))
+
+### This is a free admin dashboard ui kit built with:
 
 -   React
 -   Tailwind CSS
