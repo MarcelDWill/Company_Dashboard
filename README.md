@@ -4,7 +4,7 @@
 ![Demo App](/public/screenshot-for-readme-2.png)
 ![Demo App](/public/screenshot-for-readme-3.png)
 
-[Deployed Page](https://company-dashboard-three.vercel.app/products)
+[Deployed Page](https://company-dashboard-three.vercel.app)
 
 ### This is a free admin dashboard ui kit built with:
 
